@@ -64,7 +64,6 @@ nav ul li a::after {
     transform: translateX(-50%);
     background: #ff3131;
     transition: width 0.4s;
-    width: 100%;
 }
 
 nav ul li a:hover::after {
@@ -168,7 +167,7 @@ nav ul li a:hover::after {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #b4ffc8;
+    color: #fff;
     background-color: #000;
 }
 
